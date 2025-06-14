@@ -1,4 +1,4 @@
-A movie browsing application built with React.js, Appwrite, and Tailwind CSS. It offers users an intuitive platform to search, browse, and view trending movies in real-time with a clean, responsive interface.
+A movie browsing application built with React.js, Appwrite, and Tailwind CSS. It offers users a platform to search, browse, and view trending movies with a clean, responsive interface.
 
 📌 Features
 🔍 Search for movies by title
