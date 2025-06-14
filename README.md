@@ -10,11 +10,12 @@ A movie browsing application built with React.js, Appwrite, and Tailwind CSS. It
 
 ⚡ Clean and responsive design using Tailwind CSS
 
-📡 Powered by Appwrite for backend services and real-time data management
+📡 Powered by Appwrite for backend services and data management
 
 
 
 🛠️ Tech Stack
+
 Frontend: React.js, Tailwind CSS
 
 Backend: Appwrite (Database, Authentication, API)
