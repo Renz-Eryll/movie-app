@@ -90,7 +90,6 @@ const App = () => {
 
       <div className="wrapper">
         <header>
-          <img src="./hero-img.png" alt="Hero Banner" />
           <h1>
             Discover <span className="text-gradient">Movies</span> Perfect For
             You

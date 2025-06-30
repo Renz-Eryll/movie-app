@@ -61,7 +61,7 @@
         @apply mt-20;
 
         & ul {
-            @apply flex flex-row overflow-y-auto gap-5 -mt-10 w-full hide-scrollbar;
+            @apply flex flex-row overflow-y-auto gap-12 -mt-10 w-full hide-scrollbar;
         }
 
         & ul li {
@@ -73,7 +73,7 @@
         }
 
         & ul li img {
-            @apply w-[127px] h-[163px] rounded-lg object-cover -ml-3.5;
+            @apply w-[160px] h-[210px] rounded-lg object-cover -ml-3.5;
         }
     }
 
